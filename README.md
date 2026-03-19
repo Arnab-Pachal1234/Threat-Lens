@@ -13,12 +13,6 @@
 
 ------------------------------------------------------------------------
 
-## 📸 Preview
-
-> *(Add your dashboard screenshot here)*\
-> `![Dashboard Screenshot](./assets/dashboard.png)`
-
-------------------------------------------------------------------------
 
 ## 📖 Overview
 
